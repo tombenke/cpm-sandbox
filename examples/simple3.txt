@@ -1,0 +1,11 @@
+[H - D:2, ES:4, EF:6, LS:18, LF:20, Slack:14]
+[I - D:1, ES:20, EF:21, LS:20, LF:21, Slack:0]
+[A - D:4, ES:0, EF:4, LS:0, LF:4, Slack:0]
+[B - D:6, ES:4, EF:10, LS:4, LF:10, Slack:0]
+[C - D:5, ES:10, EF:15, LS:12, LF:17, Slack:2]
+[E - D:4, ES:0, EF:4, LS:14, LF:18, Slack:14]
+[F - D:3, ES:15, EF:18, LS:17, LF:20, Slack:2]
+[D - D:8, ES:10, EF:18, LS:10, LF:18, Slack:0]
+[G - D:2, ES:18, EF:20, LS:18, LF:20, Slack:0]
+Critical Path: [A B D G I]
+

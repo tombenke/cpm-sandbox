@@ -1,0 +1,36 @@
+A:
+  duration: 4
+  deps: []
+
+B:  
+  duration: 6
+  deps: [A]
+
+C:
+  duration: 5
+  deps: [B]
+
+D:
+  duration: 6
+  deps: [B]
+
+E:
+  duration: 4
+  deps: []
+
+F:
+  duration: 3
+  deps: [C]
+
+G:
+  duration: 2
+  deps: [D]
+
+H:
+  duration: 2
+  deps: [E]
+
+I:
+  duration: 1
+  deps: [ F, G, H]
+

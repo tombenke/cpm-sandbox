@@ -1,0 +1,28 @@
+@startgantt
+[E] requires 4 days
+[A] requires 4 days
+[A] is colored in LightGray/Red
+[H] requires 2 days
+[H] starts at [E]'s end
+[B] requires 6 days
+[B] is colored in LightGray/Red
+[B] starts at [A]'s end
+[C] requires 5 days
+[C] is colored in LightGray/Red
+[C] starts at [B]'s end
+[D] requires 6 days
+[D] is colored in LightGray/Red
+[D] starts at [B]'s end
+[F] requires 3 days
+[F] is colored in LightGray/Red
+[F] starts at [C]'s end
+[G] requires 2 days
+[G] is colored in LightGray/Red
+[G] starts at [D]'s end
+[I] requires 1 days
+[I] is colored in LightGray/Red
+[I] starts at [F]'s end
+[I] starts at [G]'s end
+[I] starts at [H]'s end
+@endgantt
+

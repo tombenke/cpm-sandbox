@@ -54,7 +54,7 @@ The [`examples/simple.png`](examples/simple.png) shows the tasks and their depen
 
 The [`examples/simple.txt`](examples/simple.txt) hold details about the results of the critical path calculation:
 
-```txt
+```text
 [I - D:1, ES:18, EF:19, LS:18, LF:19, Slack:0]
 [D - D:3, ES:10, EF:13, LS:13, LF:16, Slack:3]
 [F - D:3, ES:15, EF:18, LS:15, LF:18, Slack:0]
